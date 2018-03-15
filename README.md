@@ -12,3 +12,5 @@
 - [ ] [最近五年的java面试题](http://www.importnew.com/17232.html)
 
 ##### 参考书籍
+- [ ] java编程思想
+- [ ] java 核心技术卷 I，II
