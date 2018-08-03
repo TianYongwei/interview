@@ -18,10 +18,10 @@
 
 ## 试题来源
 
-- [https://github.com/CyC2018/Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
-- [java面试题全集上](http://blog.csdn.net/jackfrued/article/details/44921941)
-- [java面试题全集下](http://blog.csdn.net/jackfrued/article/details/44931161)
-- [最近五年的java面试题](http://www.importnew.com/17232.html)
+- [Github:https://github.com/CyC2018/Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
+- [CSDN:Java面试题全集上](http://blog.csdn.net/jackfrued/article/details/44921941)
+- [CSDN:Java面试题全集下](http://blog.csdn.net/jackfrued/article/details/44931161)
+- [ImportNew:最近五年的java面试题](http://www.importnew.com/17232.html)
 - [牛客网知乎专栏-笔经面经](https://zhuanlan.zhihu.com/b-jing-m-jing)
 
 ## 参考书籍
